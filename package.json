@@ -1,0 +1,19 @@
+{
+  "name": "lab2-beg-track",
+  "version": "0.0.0",
+  "description": "Codefellows Foundations II: Javascript, Lab 2, Beginning Track",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephanielingwood/lab2-beg-track"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0"
+  },
+  "devDependencies": {
+    "grunt-jscs": "^0.8.1"
+  }
+}
